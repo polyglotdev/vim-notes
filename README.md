@@ -1,6 +1,6 @@
 # Vim Notes
 
-After a spiritied [back and forth](https://dominiquehallan-links.com/3XO6aIa) that started mildly contentious on my behalf with @TechDufus on X we came to few conclusions:
+After a spiritied [back and forth](https://dominiquehallan-links.com/3XO6aIa) that started mildly contentious on my behalf with [@TechDufus](https://dominiquehallan-links.com/3WfVLTl) on X we came to few conclusions:
 
 1. Both of our mothers are fantastic!
 2. He was indeed trolling with the question that he asked.
